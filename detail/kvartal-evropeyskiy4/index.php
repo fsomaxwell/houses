@@ -1,0 +1,2 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Квартал Европейский4");?>Многоквартирный жилой дом, расположен по адресу: пос. Мирный. квартал Европейский, 4. Находится в управлении нашей организации с ноября 2018 года<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

@@ -1,0 +1,40 @@
+#map {
+	width: 150%;
+	height: 600px;
+}
+
+
+.main_div {
+	width: 150%; 
+}
+
+.main_div div {
+	display:inline-block;
+  	width: 160px; 
+	height: 195px; 
+	vertical-align: top;
+	background-color: #F0F0F0; 
+	padding: 5px;
+	border-radius: 5px;
+    border: 1px solid #c2056c; 
+	margin: 5px;
+	
+        }
+ 
+.p_house {
+         text-align: center;
+		 height: 43px;
+font-weight:700; 
+
+        }
+		
+.img_house {
+display:block;
+     margin:auto;
+	 border-radius: 5px;
+    border: 1px solid #c2056c;
+        }
+
+#sel_city_list {
+width: 160px;
+}

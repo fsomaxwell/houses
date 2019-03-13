@@ -1,0 +1,2 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Ул. Шолом Алейхема41А");?>Многоквартирный жилой дом, расположенный по адресу: г. Биробиджан, ул. Шолом Алейхема, 41А<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

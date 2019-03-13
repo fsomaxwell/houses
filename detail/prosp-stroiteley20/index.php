@@ -1,0 +1,2 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Просп. Строителей 20");?>Многоквартирный жилой дом, расположенный по адресу: г. Амурск, Проспект Строителей, 20. Находится под управлением нашей организации с 01.10.2018 года.<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

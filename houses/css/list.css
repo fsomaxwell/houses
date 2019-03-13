@@ -1,0 +1,27 @@
+.enter_div{
+	background-color: rgb(244, 244, 244); 
+	padding: 5px;
+}
+
+.enter_div table{
+	margin: 10px;
+	border:solid 1px #db1381;
+	border-collapse:collapse;
+}
+
+.star
+{
+	color:red;
+}
+.treatment_form td,th{
+	border:solid 1px #db1381;
+	padding:10px;
+	word-break: break-all;
+}
+
+.treatment_form th{
+	background-color: #f9c9c7;
+}
+
+
+

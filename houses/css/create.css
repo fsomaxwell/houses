@@ -1,0 +1,23 @@
+#sel_group_list, #sel_dom_list{
+width: 202px;
+}
+
+.enter_div{
+	background-color: rgb(244, 244, 244); 
+	padding: 5px;
+	width: 120%;
+}
+
+.enter_div table{
+	margin: 10px;
+}
+
+.treatment_form td{
+	width: 185px;
+}
+.star
+{
+	color:red;
+}
+
+
