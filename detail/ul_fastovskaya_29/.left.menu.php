@@ -20,6 +20,13 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Лицензия на право управления домами", 
+		"/version2/site/houses/detail/ul_fastovskaya_29/Лицензия на право управления домами/", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
