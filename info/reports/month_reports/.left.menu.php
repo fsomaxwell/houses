@@ -22,6 +22,13 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"2019", 
+		"2019/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Вернуться назад", 
 		"..\\", 
 		Array(), 
